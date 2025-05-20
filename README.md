@@ -1,6 +1,5 @@
 # 🛒SQL-Project-Retail_Sales_Analysis
 
----
 
 ## 🗂️ Project Structure
 
@@ -13,8 +12,6 @@
 
 └── 📝 README.md
 
-
----
 
 ## 🧾 Dataset Description
 
@@ -34,7 +31,7 @@ The dataset consists of one CSV file with the following columns:
 | `cogs`            | Cost of goods sold                          |
 | `total_sale`      | Total sale value (quantity × price)         |
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -42,7 +39,7 @@ The dataset consists of one CSV file with the following columns:
 - 📊 **SQL** – For performing analysis
 - 📁 **CSV** – Input data format
 
----
+
 
 ## 🚀 How to Run the Project
 
@@ -65,7 +62,7 @@ The dataset consists of one CSV file with the following columns:
      - Data cleaning
      - Analytical queries answering business-related questions
 
----
+
 
 ## 📋 Questions Answered
 
@@ -86,7 +83,7 @@ The dataset consists of one CSV file with the following columns:
 9. 📦 Unique customer count per category
 10. ⏰ Sales shifts: Morning, Afternoon, Evening based on time of day
 
----
+
 
 ## 📊 Insights & Highlights
 
@@ -95,11 +92,10 @@ The dataset consists of one CSV file with the following columns:
 - Analyzed **monthly trends** to find peak performance periods
 - Evaluated **average customer age** across product types
 
----
 
 ## 📌 Notes
 
 - Data is fictional and intended for educational use
 - PostgreSQL-specific SQL used (e.g., `EXTRACT`, `TO_CHAR`, `RANK()`)
 
----
+
